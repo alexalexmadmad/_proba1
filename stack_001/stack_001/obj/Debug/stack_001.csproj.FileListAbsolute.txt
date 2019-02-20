@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\stack_001\stack_001\bin\Debug\stack_001.exe.config
+C:\Users\User\source\repos\stack_001\stack_001\bin\Debug\stack_001.exe
+C:\Users\User\source\repos\stack_001\stack_001\bin\Debug\stack_001.pdb
+C:\Users\User\source\repos\stack_001\stack_001\obj\Debug\stack_001.csprojAssemblyReference.cache
+C:\Users\User\source\repos\stack_001\stack_001\obj\Debug\stack_001.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\stack_001\stack_001\obj\Debug\stack_001.exe
+C:\Users\User\source\repos\stack_001\stack_001\obj\Debug\stack_001.pdb
